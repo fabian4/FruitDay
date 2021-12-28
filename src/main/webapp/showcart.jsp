@@ -70,7 +70,7 @@
                 "      </div>\n" +
                 "\n" +
                 "      <div class=\"s6\">\n" +
-                "        <a href=\"/x-test/ShopServlet?key=del&uid="+user.getId()+"&fid="+fruit.getFid()+"&str=cart\">删除</a>\n" +
+                "        <a href=\"/ShopServlet?key=del&uid="+user.getId()+"&fid="+fruit.getFid()+"&str=cart\">删除</a>\n" +
                 "      </div>\n" +
                 "    </div>");
       }

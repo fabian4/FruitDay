@@ -27,8 +27,8 @@
     </div>
     <div class="mean_li" onclick="sss('f')">商品管理</div>
     <div class="fruit_list" id="fruit_list">
-      <div class="mm"><a href="/x-test/BSServlet?key=allfruit">库存水果</a></div>
-      <div class="mm"><a href="/x-test/BSServlet?key=hotfruit">热卖水果</a></div>
+      <div class="mm"><a href="/BSServlet?key=allfruit">库存水果</a></div>
+      <div class="mm"><a href="/BSServlet?key=hotfruit">热卖水果</a></div>
       <div class="mm"><a href="BSindex5.jsp">水果入库</a></div>
     </div>
   </div>
