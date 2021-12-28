@@ -140,7 +140,7 @@ public class ShopDaoImpl implements ShopDao {
             e.printStackTrace();
         } finally {
             DBUtils.close(null, ps, conn);
-            return num;
         }
+        return num;
     }
 }
