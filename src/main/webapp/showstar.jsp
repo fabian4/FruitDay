@@ -1,8 +1,7 @@
 <%@ page import="com.me.fabian.vo.Fruit" %>
 <%@ page import="java.util.List" %>
-<%@ page import="java.util.ArrayList" %>
 <%@ page import="com.me.fabian.vo.User" %>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8"%>
 <html>
 <head>
   <meta charset="utf-8">

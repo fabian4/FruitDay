@@ -43,8 +43,9 @@ public class UserServlet extends HttpServlet {
             HttpSession session = req.getSession();
             session.setAttribute("user", user);
             req.getRequestDispatcher(req.getContextPath() + "/index.jsp").forward(req, resp);
-        } else
+        } else {
             req.getRequestDispatcher("/reg.jsp").forward(req, resp);
+        }
     }
 
     protected void doLogin(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
