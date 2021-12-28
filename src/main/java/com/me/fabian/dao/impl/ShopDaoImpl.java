@@ -43,7 +43,7 @@ public class ShopDaoImpl implements ShopDao {
         Connection conn = null;
         PreparedStatement ps = null;
         int num = 0;
-        String sql = "DELETE FROM fruitday.`shop" + id + "`" + "WHERE fid=" + fid + "";
+        String sql = "DELETE FROM fruit.`shop" + id + "`" + "WHERE fid=" + fid + "";
         try {
             conn = DBUtils.getConnection();
             ps = conn.prepareStatement(sql);
@@ -61,7 +61,7 @@ public class ShopDaoImpl implements ShopDao {
         PreparedStatement ps = null;
         ResultSet rs = null;
         List<Cart> carts = new ArrayList<Cart>();
-        String sql = "SELECT * FROM fruitday.`shop" + id + "`";
+        String sql = "SELECT * FROM fruit.`shop" + id + "`";
         try {
             conn = DBUtils.getConnection();
             ps = conn.prepareStatement(sql);
@@ -86,7 +86,7 @@ public class ShopDaoImpl implements ShopDao {
         PreparedStatement ps = null;
         ResultSet rs = null;
         Cart cart = new Cart();
-        String sql = "SELECT * FROM fruitday.`shop" + id + "` WHERE fid=" + fid + "";
+        String sql = "SELECT * FROM fruit.`shop" + id + "` WHERE fid=" + fid + "";
         try {
             conn = DBUtils.getConnection();
             ps = conn.prepareStatement(sql);
@@ -127,7 +127,7 @@ public class ShopDaoImpl implements ShopDao {
     public int add(int id, Cart cart) {
         Connection conn = null;
         PreparedStatement ps = null;
-        String sql = "insert into  fruitday.`shop" + id + "` (fid,isCart,isStar)values(?,?,?)";
+        String sql = "insert into  fruit.`shop" + id + "` (fid,isCart,isStar)values(?,?,?)";
         int num = 0;
         try {
             conn = DBUtils.getConnection();
