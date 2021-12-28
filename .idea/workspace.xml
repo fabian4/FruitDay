@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ab50d39-3d76-487f-802a-3f3d387adabc" name="Default" comment="" />
+    <list default="true" id="8ab50d39-3d76-487f-802a-3f3d387adabc" name="Default" comment="init repo">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/BSindex6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/BSindex6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/fruit_info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/fruit_info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/reg.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reg.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/sel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/showcart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/showcart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/showstar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/showstar.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -714,7 +728,23 @@
       <workItem from="1640655709942" duration="398000" />
       <workItem from="1640656144207" duration="3305000" />
       <workItem from="1640659987069" duration="4348000" />
+      <workItem from="1640669744748" duration="339000" />
     </task>
+    <task id="LOCAL-00001" summary="init repo">
+      <created>1640669801149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640669801149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init repo">
+      <created>1640669834609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640669834609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -772,6 +802,10 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="init repo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/footer/css/footer.css">
