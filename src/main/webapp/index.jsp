@@ -25,11 +25,11 @@
 %>
 <div class="imgs">
   <div class="con">
-    <div id="p0" class="show"><a  target="_blank" href="http://huodong.fruitday.com/sale/zhongqiu0906/pcsh.html"><img src="img/index/h0.jpg" alt="" /></a></div>
-    <div id="p1" class="non"><a  target="_blank" href="http://huodong.fruitday.com/sale/midautumn/pc.html"><img src="img/index/h1.jpg" alt="" /></a></div>
-    <div id="p2" class="non"><a  target="_blank" href="http://huodong.fruitday.com/sale/912_oh/pc.html"><img src="img/index/h2.jpg" alt="" /></a></div>
-    <div id="p3" class="non"><a  target="_blank" href="http://subject.fruitday.com/sale/pg/pg.html"><img src="img/index/h3.jpg" alt="" /></a></div>
-    <div id="p4" class="non"><a  target="_blank" href="http://huodong.fruitday.com/sale/Zespri_0901/PC.html"><img src="img/index/h4.jpg" alt="" /></a></div>
+    <div id="p0" class="show"><a  target="_blank"><img src="img/index/h0.jpg" alt="" /></a></div>
+    <div id="p1" class="non"><a  target="_blank"><img src="img/index/h1.jpg" alt="" /></a></div>
+    <div id="p2" class="non"><a  target="_blank"><img src="img/index/h2.jpg" alt="" /></a></div>
+    <div id="p3" class="non"><a  target="_blank"><img src="img/index/h3.jpg" alt="" /></a></div>
+    <div id="p4" class="non"><a  target="_blank"><img src="img/index/h4.jpg" alt="" /></a></div>
 
     <ul class="imgul">
       <li id="l0"  onmouseover="simg(this.innerHTML)" onmouseout="fimg()">1</li>
