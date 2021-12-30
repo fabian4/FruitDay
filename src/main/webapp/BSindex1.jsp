@@ -59,13 +59,13 @@
         {
           out.print("    <div class=\"info\">\n" +
                   "      <ul>\n" +
-                  "        <li><a href=\"/x-test/BSServlet?key=finduser&id="+user.getId()+"\">"+user.getUname()+"</a></li>\n" +
+                  "        <li><a href=\"/BSServlet?key=finduser&id="+user.getId()+"\">"+user.getUname()+"</a></li>\n" +
                   "        <li class=\"i\">&nbsp;</li>\n" +
-                  "        <li><a href=\"/x-test/BSServlet?key=finduser&id="+user.getId()+"\">"+user.getEmail()+"</a></li>\n" +
+                  "        <li><a href=\"/BSServlet?key=finduser&id="+user.getId()+"\">"+user.getEmail()+"</a></li>\n" +
                   "        <li class=\"i\">&nbsp;</li>\n" +
-                  "        <li><a href=\"/x-test/BSServlet?key=finduser&id="+user.getId()+"\">"+user.getPhone()+"</a></li>\n" +
+                  "        <li><a href=\"/BSServlet?key=finduser&id="+user.getId()+"\">"+user.getPhone()+"</a></li>\n" +
                   "        <li class=\"i\">&nbsp;</li>\n" +
-                  "        <li><a href=\"/x-test/BSServlet?key=deluser&id="+user.getId()+"\">删除</a></li>\n" +
+                  "        <li><a href=\"/BSServlet?key=deluser&id="+user.getId()+"\">删除</a></li>\n" +
                   "      </ul>\n" +
                   "    </div>");
         }
