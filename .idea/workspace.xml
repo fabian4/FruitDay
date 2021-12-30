@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ab50d39-3d76-487f-802a-3f3d387adabc" name="Default" comment="init repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/fabian/dao/impl/ShopDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/fabian/dao/impl/ShopDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,8 +116,8 @@
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenProjectNavigator">
@@ -406,19 +406,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -720,7 +707,10 @@
       <workItem from="1640655709942" duration="398000" />
       <workItem from="1640656144207" duration="3305000" />
       <workItem from="1640659987069" duration="4348000" />
-      <workItem from="1640669744748" duration="2209000" />
+      <workItem from="1640669744748" duration="2466000" />
+      <workItem from="1640674369955" duration="176000" />
+      <workItem from="1640677376268" duration="213000" />
+      <workItem from="1640848537011" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="init repo">
       <created>1640669801149</created>
@@ -764,7 +754,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640671266931</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init repo">
+      <created>1640671993861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640671993861</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init repo">
+      <created>1640672074513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640672074513</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
