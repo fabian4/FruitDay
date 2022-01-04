@@ -52,11 +52,7 @@ public class UserServlet extends HttpServlet {
         String str = req.getParameter("str");
         String pwd = req.getParameter("pwd");
         boolean boo;
-        if (str.contains("@")) {
-            boo = true;
-        } else {
-            boo = false;
-        }
+        boo = str.contains("@");
 
         User u = UserService.login(str, pwd, boo);
 
