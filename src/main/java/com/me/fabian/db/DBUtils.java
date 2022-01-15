@@ -19,9 +19,9 @@ public class DBUtils {
 
     //使用静态块加载驱动程序
     static {
-        URL = "jdbc:mysql://1.117.140.237:3306/fruit?useSSL=false";
-        USERNAME = "root";
-        PASSWORD = "Mysql1234#";
+        URL = "jdbc:mysql://xxx.xxx.xxx.xxx:3306/fruit?useSSL=false";
+        USERNAME = "xxxx";
+        PASSWORD = "xxxx";
         DRIVER = "com.mysql.jdbc.Driver";
         try {
             Class.forName(DRIVER);
